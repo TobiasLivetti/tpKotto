@@ -1,0 +1,30 @@
+Fideos Tirabuzon              90
+Aceite de Girasol             20
+Aceite de Oliva                1
+Pan Integral                   4
+Pan Blanco                     1
+Leche Descremada               3
+Leche Entera                   2
+Yogur Frutilla                 2
+Yogur Natural                  1
+Galletitas Dulces              5
+Galletitas Saladas             1
+Harina 000                     3
+Harina Integral                2
+Azucar                         2
+Edulcorante                    1
+Cafe Molido                    1
+Té Negro                       2
+Jugo Multifruta                1
+Jugo Naranja                   1
+Gaseosa Cola                   2
+Gaseosa Limon                  1
+Chocolate                      2
+Alfajores                      2
+Detergente                     1
+Esponja                        4
+Lavandina                      1
+Desinfectante                  1
+Papel Higienico                2
+Servilletas                    3
+Arroz Largo Fino               2

@@ -1,0 +1,30 @@
+Aceite de Girasol                  2 1
+Aceite de Oliva                    3 1
+Alfajores                         23 1
+Arroz Largo Fino                   0 1
+Azucar                            14 1
+Cafe Molido                       16 1
+Chocolate                         22 1
+Detergente                        24 1
+Edulcorante                       15 1
+Esponja                           25 1
+Fideos Tirabuzon                   1 1
+Galletitas Dulces                 10 1
+Galletitas Saladas                11 0
+Gaseosa Cola                      20 1
+Gaseosa Limon                     21 1
+Harina 000                        12 1
+Harina Integral                   13 1
+Jugo Multifruta                   19 0
+Jugo Naranja                      18 1
+Lavandina                         26 0
+Leche Descremada                   7 1
+Leche Entera                       6 1
+Pan Blanco                         5 0
+Pan Integral                       4 1
+Papel Higienico                   28 1
+Servilletas                       29 1
+Te Negro                          17 1
+Yogur Frutilla                     9 1
+Yogur Natural                      8 0
+
