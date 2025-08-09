@@ -1,45 +1,45 @@
-    1001  1 Arroz Largo Fino             50   120.5 Kilos     0
-    1002  1 Fideos Tirabuzon            100   150.0 Paquetes  0
-    1003  2 Aceite de Girasol            10   650.0 Litros    1
-    1004  2 Aceite de Oliva               0   980.0 Litros    2
-    1005  3 Pan Integral                200   300.0 Unidades  3
-    1006  3 Pan Blanco                    0   290.0 Unidades  0
-    1007  4 Leche Entera                 80   250.0 Litros    4
-    1008  4 Leche Descremada              5   260.0 Litros    5
-    1009  5 Yogur Natural                 0   180.0 Unidades  0
-    1010  5 Yogur Frutilla               25   190.0 Unidades  0
-    1011  6 Galletitas Dulces            60   320.0 Paquetes  6
-    1012  6 Galletitas Saladas            0   300.0 Paquetes  0
-    1013  7 Harina 000                  500   110.0 Kilos     0
-    1014  7 Harina Integral              30   115.0 Kilos     1
-    1015  8 Azucar                      400   140.0 Kilos     0
-    1016  8 Edulcorante                  15   200.0 Unidades  3
-    1017  9 Cafe Molido                  90   850.0 Paquetes  4
-    1018  9 Te Negro                    100   380.0 Paquetes  0
-    1019 10 Jugo Naranja                 45   210.0 Litros    2
-    1020 10 Jugo Multifruta               0   230.0 Litros    0
-    1021 11 Gaseosa Cola                100   300.0 Botellas  5
-    1022 11 Gaseosa Limon                50   280.0 Botellas  0
-    1023 12 Chocolate                    35   500.0 Unidades  6
-    1024 12 Alfajores                    60   250.0 Unidades  0
-    1025 13 Detergente                   10   350.0 Litros    1
-    1026 13 Esponja                     200    90.0 Unidades  0
-    1027 14 Lavandina                     0   120.0 Litros    0
-    1028 14 Desinfectante                30   200.0 Litros    0
-    1029 15 Papel Higienico              80   180.0 Rollos    2
-    1030 15 Servilletas                 300   100.0 Paquetes  0
-    1031 15 Pasta Dental                 70   350.0 Unidades  1
-    1032 15 Shampoo                     120   600.0 Botellas  2
-    1033 15 Jabon de Tocador             90   220.0 Unidades  3
-    1034 14 Limpiavidrios                40   300.0 Litros    1
-    1035 14 Cera para pisos              20   550.0 Litros    2
-    1036 13 Esponja Metalica             60   130.0 Unidades  1
-    1037 13 Lavavajilla                 100   370.0 Litros    2
-    1038 12 Caramelos                   150   180.0 Unidades  3
-    1039 12 Chicles                     200   120.0 Unidades  4
-    1040 11 Agua con gas                250   110.0 Botellas  1
-    1041 10 Agua sin gas                300   105.0 Botellas  1
-    1042  9 Yerba Mate                  180   750.0 Paquetes  1
-    1043  8 Stevia                       50   210.0 Unidades  1
-    1044  7 Harina Leudante             220   130.0 Kilos     2
-    1045  6 Bizcochitos de grasa        180   310.0 Paquetes  2
+    1001  1 Arroz Largo Fino                 50    120.50 Kilos      00000000000000
+    1002  1 Fideos Tirabuzon                100    150.00 Paquetes   00000000000000
+    1003  2 Aceite de Girasol                10    650.00 Litros     00000000000000
+    1004  2 Aceite de Oliva                   0    980.00 Litros     00000000000000
+    1005  3 Pan Integral                    200    300.00 Unidades   00000000000000
+    1006  3 Pan Blanco                        0    290.00 Unidades   00000000000000
+    1007  4 Leche Entera                     80    250.00 Litros     00000000000000
+    1008  4 Leche Descremada                  5    260.00 Litros     00000000000000
+    1009  5 Yogur Natural                     0    180.00 Unidades   00000000000000
+    1010  5 Yogur Frutilla                   25    190.00 Unidades   00000000000000
+    1011  6 Galletitas Dulces                60    320.00 Paquetes   00000000000000
+    1012  6 Galletitas Saladas                0    300.00 Paquetes   00000000000000
+    1013  7 Harina 000                      500    110.00 Kilos      00000000000000
+    1014  7 Harina Integral                  30    115.00 Kilos      00000000000000
+    1015  8 Azucar                          400    140.00 Kilos      00000000000000
+    1016  8 Edulcorante                      15    200.00 Unidades   00000000000000
+    1017  9 Cafe Molido                      90    850.00 Paquetes   00000000000000
+    1018  9 Te Negro                        100    380.00 Paquetes   00000000000000
+    1019 10 Jugo Naranja                     45    210.00 Litros     00000000000000
+    1020 10 Jugo Multifruta                   0    230.00 Litros     00000000000000
+    1021 11 Gaseosa Cola                    100    300.00 Botellas   00000000000000
+    1022 11 Gaseosa Limon                    50    280.00 Botellas   00000000000000
+    1023 12 Chocolate                        35    500.00 Unidades   00000000000000
+    1024 12 Alfajores                        60    250.00 Unidades   00000000000000
+    1025 13 Detergente                       10    350.00 Litros     00000000000000
+    1026 13 Esponja                         200     90.00 Unidades   00000000000000
+    1027 14 Lavandina                         0    120.00 Litros     00000000000000
+    1028 14 Desinfectante                    30    200.00 Litros     00000000000000
+    1029 15 Papel Higienico                  80    180.00 Rollos     00000000000000
+    1030 15 Servilletas                     300    100.00 Paquetes   00000000000000
+    1031 15 Pasta Dental                     70    350.00 Unidades   00000000000000
+    1032 15 Shampoo                         120    600.00 Botellas   00000000000000
+    1033 15 Jabon de Tocador                 90    220.00 Unidades   00000000000000
+    1034 14 Limpiavidrios                    40    300.00 Litros     00000000000000
+    1035 14 Cera para pisos                  20    550.00 Litros     00000000000000
+    1036 13 Esponja Metalica                 60    130.00 Unidades   00000000000000
+    1037 13 Lavavajilla                     100    370.00 Litros     00000000000000
+    1038 12 Caramelos                       150    180.00 Unidades   00000000000000
+    1039 12 Chicles                         200    120.00 Unidades   00000000000000
+    1040 11 Agua con gas                    250    110.00 Botellas   00000000000000
+    1041 10 Agua sin gas                    300    105.00 Botellas   00000000000000
+    1042  9 Yerba Mate                      180    750.00 Paquetes   00000000000000
+    1043  8 Stevia                           50    210.00 Unidades   00000000000000
+    1044  7 Harina Leudante                 220    130.00 Kilos      00000000000000
+    1045  6 Bizcochitos de grasa            180    310.00 Paquetes   00000000000000

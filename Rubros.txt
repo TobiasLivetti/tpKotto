@@ -1,16 +1,15 @@
- 1 Almacén Seco         
- 2 Aceites              
- 3 Panificados          
- 4 Lácteos              
- 5 Yogures              
- 6 Galletitas           
- 7 Harinas              
- 8 Azúcares             
- 9 Infusiones           
-10 Bebidas sin gas      
-11 Bebidas con gas      
-12 Golosinas            
-13 Limpieza cocina      
-14 Limpieza baño        
-15 Higiene personal     
-
+ 1 Almacén Seco        
+ 2 Aceites             
+ 3 Panificados         
+ 4 Lácteos             
+ 5 Yogures             
+ 6 Galletitas          
+ 7 Harinas             
+ 8 Azúcares            
+ 9 Infusiones          
+10 Bebidas sin gas     
+11 Bebidas con gas     
+12 Golosinas           
+13 Limpieza cocina     
+14 Limpieza baño       
+15 Higiene personal    

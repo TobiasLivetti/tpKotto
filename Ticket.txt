@@ -1,0 +1,247 @@
+K O T T O
+Yo te reconozco
+SUC 170
+XXXXXX…X 9999
+XX….X
+C.U.I.T. 99-99999999-9
+Fecha: Vie 08/08/2025
+Hora: 21:57:53
+Nro. Ticket: 9999-99999999
+Nro. Caja: 9999
+----------------------------------------
+F A C T U R A - B
+ORIGINAL
+----------------------------------------
+ 50 x $ 3500.75
+Aceite de Oliva Extra Virgen   Litro
+10000002                                           $  175037.50
+Promo            1                                    $   -   8751.88
+
+ 20 x $  950.00
+Arroz Largo Fino               Kg
+10000003                                           $   19000.00
+Marca            1                                    $   -   1900.00
+
+  1 x $ 1100.00
+Arroz Yamani Integral          Kg
+10000004                                           $    1100.00
+Marca            1                                    $   -    165.00
+
+Jub.             2                                    $   -     55.00
+
+  4 x $  800.00
+Azúcar Blanca                  Kg
+10000005                                           $    3200.00
+Jub.             1                                    $   -    320.00
+
+  3 x $ 2700.00
+Café Instantáneo               Frasco
+10000008                                           $    8100.00
+Comu.            1                                    $   -   1215.00
+
+  2 x $ 2500.00
+Café Molido                    Paquete
+10000007                                           $    5000.00
+Comu.            1                                    $   -    500.00
+
+MercPago         2                                    $   -    250.00
+
+  2 x $  750.00
+Fideos Tirabuzón               Paquete
+10000010                                           $    1500.00
+Marca            1                                    $   -     75.00
+
+Jub.             2                                    $   -    150.00
+
+  5 x $  600.00
+Harina 0000                    Kg
+10000011                                           $    3000.00
+Promo            1                                    $   -    150.00
+
+  3 x $ 1100.00
+Galletitas Dulces              Paquete
+10000013                                           $    3300.00
+MercPago         1                                    $   -    165.00
+
+  2 x $ 1050.00
+Galletitas Saladas             Paquete
+10000014                                           $    2100.00
+MercPago         1                                    $   -    210.00
+
+  2 x $  900.00
+Jugo de Naranja Envase Tetra   Litro
+10000015                                           $    1800.00
+ANSES            1                                    $   -     90.00
+
+  1 x $  950.00
+Jugo de Manzana Envase Tetra   Litro
+10000016                                           $     950.00
+ANSES            1                                    $   -     95.00
+
+  1 x $  800.00
+Leche Entera                   Litro
+10000017                                           $     800.00
+Marca            1                                    $   -     40.00
+
+  2 x $  850.00
+Leche Descremada               Litro
+10000018                                           $    1700.00
+Marca            1                                    $   -    170.00
+
+  1 x $ 1200.00
+Manteca                        Paquete
+10000019                                           $    1200.00
+Jub.             1                                    $   -     60.00
+
+  2 x $  400.00
+Sal Fina                       Kg
+10000021                                           $     800.00
+Promo            1                                    $   -     40.00
+
+  1 x $  380.00
+Sal Gruesa                     Kg
+10000022                                           $     380.00
+Promo            1                                    $   -     19.00
+
+  2 x $  600.00
+Té Negro                       Caja
+10000023                                           $    1200.00
+Marca            1                                    $   -     60.00
+
+  2 x $  620.00
+Té Verde                       Caja
+10000024                                           $    1240.00
+Marca            1                                    $   -    124.00
+
+  1 x $  850.00
+Yerba Mate                     Paquete
+10000025                                           $     850.00
+Comu.            1                                    $   -     42.50
+
+  4 x $  880.00
+Yerba Mate Despalada           Paquete
+10000026                                           $    3520.00
+Comu.            1                                    $   -    352.00
+
+  2 x $  900.00
+Agua Mineral Sin Gas 2L        Botella
+10000029                                           $    1800.00
+ANSES            1                                    $   -     90.00
+
+  3 x $  920.00
+Agua Mineral Con Gas 2L        Botella
+10000030                                           $    2760.00
+ANSES            1                                    $   -    276.00
+
+  2 x $ 1500.50
+Aceite de Girasol Natura       Litro
+10000001                                           $    3001.00
+Promo            1                                    $   -    300.10
+
+Marca            2                                    $   -    450.15
+
+Jub.             3                                    $   -    600.20
+
+SubTot. sin descuentos....:               $ 243338.50
+Descuentos por promociones:          $   -16715.82
+========================================
+T O T A L                                        $    226622.67
+========================================
+Su pago con Tipo Pago:                    $  226622.67
+Su vuelto:                                          $           0.00
+G R A C I A S  P O R  S U  C O M P R A
+Para consultas, sugerencias o reclamos
+comunicarse al correo infoKotto.com.ar
+
+-------------------------------------------------------------------------------------------------
+                                                        Listado de Articulos ordenados por Código de Rubro
+================================================================
+Cod. Rubro: 1 AlmacÃ©n Seco
+Cod.Art. Descripcion                    Stk.   Pre.Uni. U.Med.  TD % TD % TD % TD % TD % TD % TD %
+-------------------------------------------------------------------------------------------------
+10000001 Aceite de Girasol Natura        98   1500.50 Litro    1 10  2 15  3 20  0  0  0  0  0  0  0  0 
+10000002 Aceite de Oliva Extra Virgen     0   3500.75 Litro    1  5  0  0  0  0  0  0  0  0  0  0  0  0 
+
+Cod. Rubro: 2 Aceites
+Cod.Art. Descripcion                    Stk.   Pre.Uni. U.Med.  TD % TD % TD % TD % TD % TD % TD %
+-------------------------------------------------------------------------------------------------
+10000003 Arroz Largo Fino               180    950.00 Kg       2 10  0  0  0  0  0  0  0  0  0  0  0  0 
+10000004 Arroz Yamani Integral          119   1100.00 Kg       2 15  3  5  0  0  0  0  0  0  0  0  0  0 
+
+Cod. Rubro: 3 Panificados
+Cod.Art. Descripcion                    Stk.   Pre.Uni. U.Med.  TD % TD % TD % TD % TD % TD % TD %
+-------------------------------------------------------------------------------------------------
+10000006 Azúcar Mascabo                 150   1200.00 Kg       3  5  4 10  0  0  0  0  0  0  0  0  0  0 
+10000005 Azúcar Blanca                  296    800.00 Kg       3 10  0  0  0  0  0  0  0  0  0  0  0  0 
+
+Cod. Rubro: 4 LÃ¡cteos
+Cod.Art. Descripcion                    Stk.   Pre.Uni. U.Med.  TD % TD % TD % TD % TD % TD % TD %
+-------------------------------------------------------------------------------------------------
+10000008 Café Instantáneo                77   2700.00 Frasco   4 15  0  0  0  0  0  0  0  0  0  0  0  0 
+10000007 Café Molido                    198   2500.00 Paquete  4 10  5  5  0  0  0  0  0  0  0  0  0  0 
+
+Cod. Rubro: 5 Yogures
+Cod.Art. Descripcion                    Stk.   Pre.Uni. U.Med.  TD % TD % TD % TD % TD % TD % TD %
+-------------------------------------------------------------------------------------------------
+10000010 Fideos Tirabuzón               348    750.00 Paquete  2  5  3 10  0  0  0  0  0  0  0  0  0  0 
+10000009 Fideos Spaghetti               400    700.00 Paquete  2 10  0  0  0  0  0  0  0  0  0  0  0  0 
+
+Cod. Rubro: 6 Galletitas
+Cod.Art. Descripcion                    Stk.   Pre.Uni. U.Med.  TD % TD % TD % TD % TD % TD % TD %
+-------------------------------------------------------------------------------------------------
+10000011 Harina 0000                    495    600.00 Kg       1  5  0  0  0  0  0  0  0  0  0  0  0  0 
+10000012 Harina Integral                250    700.00 Kg       1 10  2  5  0  0  0  0  0  0  0  0  0  0 
+
+Cod. Rubro: 7 Harinas
+Cod.Art. Descripcion                    Stk.   Pre.Uni. U.Med.  TD % TD % TD % TD % TD % TD % TD %
+-------------------------------------------------------------------------------------------------
+10000013 Galletitas Dulces              297   1100.00 Paquete  5  5  0  0  0  0  0  0  0  0  0  0  0  0 
+10000014 Galletitas Saladas             218   1050.00 Paquete  5 10  0  0  0  0  0  0  0  0  0  0  0  0 
+
+Cod. Rubro: 8 AzÃºcares
+Cod.Art. Descripcion                    Stk.   Pre.Uni. U.Med.  TD % TD % TD % TD % TD % TD % TD %
+-------------------------------------------------------------------------------------------------
+10000015 Jugo de Naranja Envase Tetra   178    900.00 Litro    6  5  0  0  0  0  0  0  0  0  0  0  0  0 
+10000016 Jugo de Manzana Envase Tetra   169    950.00 Litro    6 10  0  0  0  0  0  0  0  0  0  0  0  0 
+
+Cod. Rubro: 9 Infusiones
+Cod.Art. Descripcion                    Stk.   Pre.Uni. U.Med.  TD % TD % TD % TD % TD % TD % TD %
+-------------------------------------------------------------------------------------------------
+10000017 Leche Entera                   499    800.00 Litro    2  5  0  0  0  0  0  0  0  0  0  0  0  0 
+10000018 Leche Descremada               448    850.00 Litro    2 10  0  0  0  0  0  0  0  0  0  0  0  0 
+
+Cod. Rubro: 10 Bebidas sin gas
+Cod.Art. Descripcion                    Stk.   Pre.Uni. U.Med.  TD % TD % TD % TD % TD % TD % TD %
+-------------------------------------------------------------------------------------------------
+10000020 Margarina                      220   1100.00 Paquete  3 10  0  0  0  0  0  0  0  0  0  0  0  0 
+10000019 Manteca                        199   1200.00 Paquete  3  5  0  0  0  0  0  0  0  0  0  0  0  0 
+
+Cod. Rubro: 11 Bebidas con gas
+Cod.Art. Descripcion                    Stk.   Pre.Uni. U.Med.  TD % TD % TD % TD % TD % TD % TD %
+-------------------------------------------------------------------------------------------------
+10000021 Sal Fina                       498    400.00 Kg       1  5  0  0  0  0  0  0  0  0  0  0  0  0 
+10000022 Sal Gruesa                     449    380.00 Kg       1  5  0  0  0  0  0  0  0  0  0  0  0  0 
+
+Cod. Rubro: 12 Golosinas
+Cod.Art. Descripcion                    Stk.   Pre.Uni. U.Med.  TD % TD % TD % TD % TD % TD % TD %
+-------------------------------------------------------------------------------------------------
+10000024 Té Verde                       248    620.00 Caja     2 10  0  0  0  0  0  0  0  0  0  0  0  0 
+10000023 Té Negro                       298    600.00 Caja     2  5  0  0  0  0  0  0  0  0  0  0  0  0 
+
+Cod. Rubro: 13 Limpieza cocina
+Cod.Art. Descripcion                    Stk.   Pre.Uni. U.Med.  TD % TD % TD % TD % TD % TD % TD %
+-------------------------------------------------------------------------------------------------
+10000025 Yerba Mate                     399    850.00 Paquete  4  5  0  0  0  0  0  0  0  0  0  0  0  0 
+10000026 Yerba Mate Despalada           376    880.00 Paquete  4 10  0  0  0  0  0  0  0  0  0  0  0  0 
+
+Cod. Rubro: 14 Limpieza baÃ±o
+Cod.Art. Descripcion                    Stk.   Pre.Uni. U.Med.  TD % TD % TD % TD % TD % TD % TD %
+-------------------------------------------------------------------------------------------------
+10000027 Gaseosa Cola 1.5L              500   1500.00 Botella  5  5  0  0  0  0  0  0  0  0  0  0  0  0 
+
+Cod. Rubro: 15 Higiene personal
+Cod.Art. Descripcion                    Stk.   Pre.Uni. U.Med.  TD % TD % TD % TD % TD % TD % TD %
+-------------------------------------------------------------------------------------------------
+10000029 Agua Mineral Sin Gas 2L        598    900.00 Botella  6  5  0  0  0  0  0  0  0  0  0  0  0  0 
+10000030 Agua Mineral Con Gas 2L        577    920.00 Botella  6 10  0  0  0  0  0  0  0  0  0  0  0  0 
+
